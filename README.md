@@ -1,4 +1,4 @@
-<p># Xamarin.forms.PropertyAnimation</p>
+<h1>Xamarin.forms.PropertyAnimation</h1>
 <p>This is an animation library for xamarin forms controls. We can animate any property with supported type. Currenlty this library has three types which can be animated.These are double, Integer and color. So if any control has any property with these types, we can animate that.</p>
 <p>We can download Nuget package for this library from https://www.nuget.org/packages/Xamarin.Forms.PropertyAnimation.</p>
 <p>This library has two type of animations.</p>
