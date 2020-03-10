@@ -10,7 +10,7 @@
 <li><strong>StartValue</strong> : Initial value from where animation need to start:</li>
 <li><strong>EndValue</strong>: Last value where animation will finish.</li>
 <li><strong>PropertyName</strong>: Name of property which we want to animate.</li>
-<li><strong>Target</strong>: Which control property need to animate.<br /><br />Except these properties there are few optional properties which also can be used to customize animation behaviour.<br /><br /></li>
+<li><strong>Target</strong>: Which control's property need to animate.<br /><br />Except these properties there are few optional properties which also can be used to customize animation behaviour.<br /><br /></li>
 <li><strong>Toggle</strong>: This property instructs animator to reverse animation from EndValue to StartValue.</li>
 <li><strong>Duration</strong>: How long animation should run.</li>
 <li><strong>AnimationEasing</strong>: Animation Easing.</li>
