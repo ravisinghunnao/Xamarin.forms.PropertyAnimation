@@ -28,7 +28,7 @@
 <p>&nbsp;</p>
 <p><span style="text-decoration: underline;"><strong>Complete Code of Demo Image</strong></span></p>
 <p>&nbsp;</p>
- <StackLayout VerticalOptions="CenterAndExpand" Padding="20">
+<StackLayout VerticalOptions="CenterAndExpand" Padding="20">
         <Button Text="Property Animation" BackgroundColor="#ffff0000" x:Name="btn"  >
             <Button.Triggers>
                 <EventTrigger Event="Clicked" >
@@ -156,3 +156,5 @@
         </Button>
 
     </StackLayout>
+
+
