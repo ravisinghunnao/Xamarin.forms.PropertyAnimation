@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 using Xamarin.Forms;
-//test comment
+
 namespace Animation
 {
     public class ThicknessAnimation : AbstractAnimation
